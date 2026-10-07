@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Aeroost/Aeroost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aeroost
 
-Here are some ideas to get you started:
+**Where Ideas Become Technology.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🇺🇸 English](README.md) • [🇮🇷 فارسی](README_FA.md) • [🇸🇦 العربية](README_AR.md)
+
+</div>
+
+---
+
+**Aeroost** is an independent technology ecosystem focused on **software engineering, artificial intelligence, game development, and digital tools**.
+
+We build **modular, efficient, scalable, and innovative technologies** designed to turn ideas into practical digital experiences.
+
+### 🎯 Focus
+
+* 💻 Software Engineering
+* 🤖 Artificial Intelligence
+* 🎮 Game Development
+* 🛠️ Digital Tools
+
+### 💡 Vision
+
+> **Build technology that is powerful, practical, and built to last.**
+
+---
+
+<div align="center">
+
+**Where Ideas Become Technology.**
+
+**© Aeroost**
+
+</div>
