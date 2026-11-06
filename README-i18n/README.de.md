@@ -10,16 +10,19 @@
 
 ---
 
-**Aeroost** ist ein unabhängiges Technologie-Ökosystem mit Schwerpunkt auf **Softwareentwicklung, künstlicher Intelligenz, Spieleentwicklung und digitalen Werkzeugen**.
+**Aeroost** ist ein unabhängiges Technologie-Ökosystem mit Schwerpunkt auf **Softwareentwicklung, Spieleentwicklung und digitalen Werkzeugen**.
 
 Wir entwickeln **modulare, effiziente, skalierbare und innovative Technologien**, die Ideen in praktische digitale Erlebnisse verwandeln.
 
-### 🎯 Schwerpunkte
+### 🎯 Was wir entwickeln
 
-* 💻 Softwareentwicklung
-* 🤖 Künstliche Intelligenz
-* 🎮 Spieleentwicklung
-* 🛠️ Digitale Werkzeuge
+- 💻 Software und Anwendungen
+- 🎮 Spiele und interaktive Erlebnisse
+- 🛠️ Entwicklerwerkzeuge und digitale Produkte
+
+### 🌍 Projektarten
+
+Wir entwickeln sowohl **Open-Source-Projekte**, die jeder erkunden und zu denen jeder beitragen kann, als auch **kommerzielle Produkte**, die Nutzern und Unternehmen einen Mehrwert bieten sollen.
 
 ### 💡 Vision
 
