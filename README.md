@@ -4,7 +4,7 @@
 
 **Where Ideas Become Technology.**
 
-[🇺🇸 English](README.md) • [🇮🇷 فارسی](README_FA.md) • [🇸🇦 العربية](README_AR.md)
+[🇺🇸 English](README.md)
 
 </div>
 
