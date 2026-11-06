@@ -10,16 +10,20 @@
 
 ---
 
-**Aeroost** est un écosystème technologique indépendant axé sur **l’ingénierie logicielle, l’intelligence artificielle, le développement de jeux vidéo et les outils numériques**.
+
+**Aeroost** est un écosystème technologique indépendant axé sur **l’ingénierie logicielle, le développement de jeux vidéo et les outils numériques**.
 
 Nous créons des **technologies modulaires, efficaces, évolutives et innovantes**, conçues pour transformer les idées en expériences numériques concrètes.
 
-### 🎯 Domaines d’activité
+### 🎯 Ce que nous créons
 
-* 💻 Ingénierie logicielle
-* 🤖 Intelligence artificielle
-* 🎮 Développement de jeux vidéo
-* 🛠️ Outils numériques
+- 💻 Logiciels et applications
+- 🎮 Jeux et expériences interactives
+- 🛠️ Outils pour développeurs et produits numériques
+
+### 🌍 Types de projets
+
+Nous créons à la fois des **projets open source**, que chacun peut explorer et auxquels chacun peut contribuer, et des **produits commerciaux** conçus pour apporter de la valeur aux utilisateurs et aux entreprises.
 
 ### 💡 Vision
 
@@ -27,10 +31,6 @@ Nous créons des **technologies modulaires, efficaces, évolutives et innovantes
 
 ---
 
-<div align="center">
-
-**Là où les idées deviennent technologie.**
+**Where Ideas Become Technology.**
 
 **© Aeroost**
-
-</div>
