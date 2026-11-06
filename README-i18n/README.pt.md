@@ -10,16 +10,20 @@
 
 ---
 
-**Aeroost** é um ecossistema tecnológico independente, focado em **engenharia de software, inteligência artificial, desenvolvimento de jogos e ferramentas digitais**.
+
+**Aeroost** é um ecossistema tecnológico independente com foco em **engenharia de software, desenvolvimento de jogos e ferramentas digitais**.
 
 Criamos **tecnologias modulares, eficientes, escaláveis e inovadoras**, concebidas para transformar ideias em experiências digitais práticas.
 
-### 🎯 Áreas de foco
+### 🎯 O que desenvolvemos
 
-* 💻 Engenharia de software
-* 🤖 Inteligência artificial
-* 🎮 Desenvolvimento de jogos
-* 🛠️ Ferramentas digitais
+- 💻 Softwares e aplicações
+- 🎮 Jogos e experiências interativas
+- 🛠️ Ferramentas para desenvolvedores e produtos digitais
+
+### 🌍 Tipos de projetos
+
+Criamos tanto **projetos de código aberto**, que qualquer pessoa pode explorar e para os quais pode contribuir, quanto **produtos comerciais** concebidos para gerar valor para usuários e empresas.
 
 ### 💡 Visão
 
@@ -27,10 +31,6 @@ Criamos **tecnologias modulares, eficientes, escaláveis e inovadoras**, concebi
 
 ---
 
-<div align="center">
-
-**Onde ideias se transformam em tecnologia.**
+**Where Ideas Become Technology.**
 
 **© Aeroost**
-
-</div>
