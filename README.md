@@ -10,16 +10,20 @@
 
 ---
 
-**Aeroost** is an independent technology ecosystem focused on **software engineering, artificial intelligence, game development, and digital tools**.
+
+**Aeroost** is an independent technology ecosystem focused on **software engineering, game development, and digital tools**.
 
 We build **modular, efficient, scalable, and innovative technologies** designed to turn ideas into practical digital experiences.
 
-### 🎯 Focus
+### 🎯 What We Build
 
-* 💻 Software Engineering
-* 🤖 Artificial Intelligence
-* 🎮 Game Development
-* 🛠️ Digital Tools
+- 💻 Software & Applications
+- 🎮 Games & Interactive Experiences
+- 🛠️ Developer Tools & Digital Products
+
+### 🌍 Project Types
+
+We create both **open-source projects** that anyone can explore and contribute to, and **commercial products** designed to deliver value to users and businesses.
 
 ### 💡 Vision
 
@@ -27,10 +31,6 @@ We build **modular, efficient, scalable, and innovative technologies** designed 
 
 ---
 
-<div align="center">
-
 **Where Ideas Become Technology.**
 
 **© Aeroost**
-
-</div>
