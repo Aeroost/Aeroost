@@ -10,16 +10,19 @@
 
 ---
 
-**Aeroost** adalah ekosistem teknologi independen yang berfokus pada **rekayasa perangkat lunak, kecerdasan buatan, pengembangan game, dan alat digital**.
+**Aeroost** adalah ekosistem teknologi independen yang berfokus pada **rekayasa perangkat lunak, pengembangan game, dan alat digital**.
 
-Kami membangun **teknologi yang modular, efisien, skalabel, dan inovatif**, yang dirancang untuk mengubah ide menjadi pengalaman digital yang praktis.
+Kami membangun **teknologi yang modular, efisien, skalabel, dan inovatif** untuk mengubah ide menjadi pengalaman digital yang praktis.
 
-### 🎯 Fokus
+### 🎯 Yang Kami Bangun
 
-* 💻 Rekayasa Perangkat Lunak
-* 🤖 Kecerdasan Buatan
-* 🎮 Pengembangan Game
-* 🛠️ Alat Digital
+- 💻 Perangkat lunak dan aplikasi
+- 🎮 Game dan pengalaman interaktif
+- 🛠️ Alat untuk pengembang dan produk digital
+
+### 🌍 Jenis Proyek
+
+Kami membuat **proyek sumber terbuka** yang dapat dijelajahi dan dikembangkan bersama oleh siapa saja, serta **produk komersial** yang dirancang untuk memberikan nilai bagi pengguna dan bisnis.
 
 ### 💡 Visi
 
